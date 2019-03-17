@@ -2,7 +2,7 @@
 
 ### Structure of the flaskapp
 
-root/
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>root/
 ├── flaskapp/
 │   ├── app.py
 │   ├── db.py
@@ -27,3 +27,5 @@ root/
 │   ├── test_db.py
 │   ├── test_auth.py
 │   └── test_video.py
+</pre></div>
+</div>
