@@ -1,6 +1,6 @@
 # flaskapp_deployment_notes
 
-### Structure of the flaskapp
+### Structure of the flaskapp - v0.1
 
 <div class="highlight-none notranslate"><div class="highlight"><pre><span></span>root/
 ├── flaskapp/
